@@ -1,9 +1,13 @@
-# ✨ Hi, I Am Elias (Ilia)
+# Hi, I Am Ilya (Ilia)
 
-## 📫 Connect with me on
+## I am currently a:
 
-<a href="https://www.linkedin.com/in/ilyareshetnikov/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/devxom"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+* Software Developer at [Devexperts](https://devexperts.com/)
 
-## 👩‍💻 I am currently a
+## Places Online You Can Find Me:
 
-- Software Developer at [Devexperts](https://devexperts.com/)
+* [LinkedIn](https://www.linkedin.com/in/ilyareshetnikov/)
+* [Twitter](https://twitter.com/devxom)
+* [Mastodon](https://mastodon.social/@devxom)
+<!-- * [Curriculm Vitae (Resume)](https://github.com/devxom/cv) -->
+<!-- * [Spotify](https://open.spotify.com/user/devxom) -->

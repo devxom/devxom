@@ -1,13 +1,15 @@
-# Hi, I Am Ilya (Ilia)
+# Hi, my name is Ilia Reshetnikov
 
 ## I am currently a:
 
 * Software Developer at [Devexperts](https://devexperts.com/)
 
-## Places Online You Can Find Me:
+## You Can Find Me:
 
-* [LinkedIn](https://www.linkedin.com/in/ilyareshetnikov/)
-* [Twitter](https://twitter.com/devxom)
 * [Mastodon](https://mastodon.social/@devxom)
+* [Twitter](https://twitter.com/devxom)
+* [Telegram](https://devxom.t.me)
+* [LinkedIn](https://www.linkedin.com/in/ilyareshetnikov/)
 <!-- * [Curriculm Vitae (Resume)](https://github.com/devxom/cv) -->
-<!-- * [Spotify](https://open.spotify.com/user/devxom) -->
+
+Or send me email at [hi@devxom.tech](mailto:hi@devxom.tech)

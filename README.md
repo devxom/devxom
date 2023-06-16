@@ -1,15 +1,12 @@
-# Hi, my name is Ilia Reshetnikov
+# Hi there, I'm Ilia Reshetnikov
 
-## I am currently a:
+- Live in Porto, Portugal 🇵🇹.
+- Work as a Software Developer in a [@devexperts](https://github.com/devexperts)
+- Most of the time I'm writing on Typescript and Javascript.
 
-* Software Developer at [Devexperts](https://devexperts.com/)
+## Connect with me:
 
-## You Can Find Me:
-
-* [Mastodon](https://mastodon.social/@devxom)
-* [Twitter](https://twitter.com/devxom)
-* [Telegram](https://devxom.t.me)
-* [LinkedIn](https://www.linkedin.com/in/ilyareshetnikov/)
-<!-- * [Curriculm Vitae (Resume)](https://github.com/devxom/cv) -->
-
-Or send me email at [hi@devxom.tech](mailto:hi@devxom.tech)
+* ✉️ [hello@devxom.me](mailto:hello@devxom.me)
+* [@devxom@mastodon.social](https://mastodon.social/@devxom) 
+* [@devxom:matrix.org](https://matrix.to/#/#devxom:matrix.org)
+* [LinkedIn](https://www.linkedin.com/in/iliareshetnikov/)

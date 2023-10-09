@@ -8,5 +8,4 @@
 
 * ✉️ [hello@devxom.me](mailto:hello@devxom.me)
 * [@devxom@mastodon.social](https://mastodon.social/@devxom) 
-* [@devxom:matrix.org](https://matrix.to/#/#devxom:matrix.org)
-* [LinkedIn](https://www.linkedin.com/in/iliareshetnikov/)
+* [LinkedIn](https://www.linkedin.com/in/devxom/)

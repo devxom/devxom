@@ -1,8 +1,7 @@
 # Hi there, I'm Ilia Reshetnikov
 
 - Live in Porto, Portugal 🇵🇹.
-- Work as a Software Developer in a [@devexperts](https://github.com/devexperts)
-- Most of the time I'm writing on Typescript and Javascript.
+- Work as a Accessibility consultant & Software Developer in a [@devexperts](https://github.com/devexperts)
 
 ## Connect with me:
 

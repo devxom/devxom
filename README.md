@@ -39,7 +39,7 @@ I'm a developer, accessibility consultant, and UX designer focused on building t
 
 **My contacts:**
 
-- **Email**: [hello@devxom.me](mailto:hello@devxom.me)
+- **Email**: hello[at]devxom.me
 - **Website**: [devxom.me](https://devxom.me/)
 - **Linkedin:** [https://www.linkedin.com/in/devxom/](https://www.linkedin.com/in/devxom/)
 - **Mastodon / Fediverse**: [@devxom@mastodon.social](https://mastodon.social/@devxom)

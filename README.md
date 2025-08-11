@@ -43,7 +43,7 @@ I'm a developer, accessibility consultant, and UX designer focused on building t
 - **Website**: [devxom.me](https://devxom.me/)
 - **Linkedin:** [https://www.linkedin.com/in/devxom/](https://www.linkedin.com/in/devxom/)
 - **Mastodon / Fediverse**: [@devxom@mastodon.social](https://mastodon.social/@devxom)
-- **Twitter / X:** [@devxom@x.com](https://x.com/@devxom)
+- **Bluesky:** [@devxom.bsky.social](https://bsky.app/profile/devxom.bsky.social)
 
 ---
 

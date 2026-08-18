@@ -1,43 +1,17 @@
-# Hi there, Ilia (pronounced: Ilía)
+# Hi there, Ilias (pronounced: ee-LEE-ahs [/iˈliː.ɑːs/])
 
-**Inclusive interface specialist building accessible, future-friendly UI systems across web, game, and terminal platforms. Based in Portugal. Open to remote work, consulting, and relocation for onsite roles in the US, Canada, UK, and EU.**
+I architect inclusive digital platforms and mitigate regulatory risks by embedding structural compliance directly into UI foundations. My engineering practice spans the full product lifecycle. I direct initial requirements gathering, validate design systems, establish scalable engineering workflows, and audit final implementations. I translate global mandates, including WCAG, EN 301 549, the EAA, and Section 508, into exact technical specifications across web, mobile, terminal, and game environments.
 
-I'm a developer, accessibility consultant, and UX designer focused on building thoughtful, inclusive, and maintainable user interfaces. My work spans the web, terminal, and game engines, with a strong foundation in systems thinking, accessibility, and future interaction design.
+## Focus Areas
 
-## What I Do
+My work centres on architectural integrity and the shift-left integration of accessibility standards into the software development lifecycle. I construct resilient component libraries from inception to ensure compliance by design without compromising delivery velocity. I execute architecture audits and risk assessments for data-dense ecosystems.
 
-- Build accessible UI components for web, games, and terminal UIs  
-- Design and implement design systems and component frameworks  
-- Perform accessibility testing and audits to improve real-world usability  
-- Guide and mentor teams in accessibility and developer experience  
-- Contribute to education, development, and training processes around a11y and UI practices  
-- Write and contribute to specifications and developer experience tooling  
-- Lead projects across frontend, game development, and accessibility domains  
-- Build DX-focused automation to improve workflows and team velocity  
+## Research
 
-## Interests
+I actively research inclusive interface systems, unconventional input methods, and techno-positivism. I explore how emerging tools alter human-computer interaction across physical and digital spaces.
 
-- Accessibility in modern interfaces and interaction patterns  
-- Designing systems and tools that offer meaningful experiences — from narrative-driven game mechanics to calm, focused interaction  
-- Techno-positivism: exploring how tools, environments, and AI shift how we think, create, and connect  
-- Interfaces of interaction across tools, systems, and personalities — both current and emerging  
-- Unconventional input methods, from old hardware to speculative controls — anything that extends how people (and others) relate to tech and the world  
+## Engagements
 
-## Philosophy
+I am based in Portugal, available for remote engagements and technical consulting globally. Onsite roles involving relocation are considered on a case-by-case basis.
 
-- Accessibility is not an add-on. It is a core part of good UI and UX design  
-- Simplicity and clarity scale better than complexity  
-- Interfaces should serve everyone, with empathy and precision  
-
-## Contact
-
-**I’m open to:**
-
-- Long-term roles with a strong focus on accessibility, systems design, and developer experience  
-- Short-term consulting, audits, or side projects that align with my interests and values  
-- Remote or onsite opportunities (relocation possible for the right fit)
-
----
-
-Working on projects that care about usability, inclusivity, and technical depth.  
-Let’s build something that works — for everyone.
+[Contacts Page](https://www.a11ythinker.com/contacts/?utm_source=github&utm_medium=readme).

@@ -37,14 +37,6 @@ I'm a developer, accessibility consultant, and UX designer focused on building t
 - Short-term consulting, audits, or side projects that align with my interests and values  
 - Remote or onsite opportunities (relocation possible for the right fit)
 
-**My contacts:**
-
-- **Email**: hello[at]devxom.me
-- **Website**: [devxom.me](https://devxom.me/)
-- **Linkedin:** [https://www.linkedin.com/in/devxom/](https://www.linkedin.com/in/devxom/)
-- **Mastodon / Fediverse**: [@devxom@mastodon.social](https://mastodon.social/@devxom)
-- **Bluesky:** [@devxom.bsky.social](https://bsky.app/profile/devxom.bsky.social)
-
 ---
 
 Working on projects that care about usability, inclusivity, and technical depth.  

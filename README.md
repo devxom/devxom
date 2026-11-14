@@ -11,21 +11,15 @@ narrative 2D game built around accessibility.
 
 ## Professional practice
 
-Some client and product names are under NDA.
-
-| Period | Domain | Role |
-| --- | --- | --- |
-| 2023 to present | International financial services | Accessibility Architect |
-| 2021 to 2023 | International financial services | Software developer with accessibility responsibility |
-| 2018 to 2021 | Digital publishing, including a WYSIWYG book editor | Software developer, with accessibility work |
-| 2016 to 2018 | Global marketplace for handmade goods | Frontend developer, first accessibility work |
-| 2011 to 2016 | Industrial holding, regional media, medical clinic | Systems administrator, then sustaining engineer |
-| 2008 to present | Independent game development | Developer |
-
-- Work: accessibility architecture, design system evaluation, audits,
-  technical assessments and conformity documentation.
-- Frameworks: WCAG 2.2, EN 301 549, European Accessibility Act,
+- **Domains:** international financial services since 2021. Earlier,
+  digital publishing (including a WYSIWYG book editor) and global
+  e-commerce.
+- **Work:** accessibility architecture, design system evaluation,
+  audits, technical assessments and conformity documentation.
+- **Frameworks:** WCAG 2.2, EN 301 549, European Accessibility Act,
   Section 508.
+
+Some client and product names are under NDA.
 
 ## Independent game development
 

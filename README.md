@@ -6,11 +6,12 @@ Accessibility Architect with 15+ years in technology, first in systems
 administration and technical operations, then in software engineering.
 I have worked with accessibility since 2017 and exclusively in that role
 since 2023, integrating it into the architecture of digital products in
-regulated industries.
+regulated industries. With an independent game team I am developing a 
+narrative 2D game built around accessibility.
 
 ## Professional practice
 
-Client and product names are under NDA.
+Some client and product names are under NDA.
 
 | Period | Domain | Role |
 | --- | --- | --- |
@@ -19,15 +20,25 @@ Client and product names are under NDA.
 | 2018 to 2021 | Digital publishing, including a WYSIWYG book editor | Software developer, with accessibility work |
 | 2016 to 2018 | Global marketplace for handmade goods | Frontend developer, first accessibility work |
 | 2011 to 2016 | Industrial holding, regional media, medical clinic | Systems administrator, then sustaining engineer |
+| 2008 to present | Independent game development | Developer |
 
 - Work: accessibility architecture, design system evaluation, audits,
   technical assessments and conformity documentation.
 - Frameworks: WCAG 2.2, EN 301 549, European Accessibility Act,
   Section 508.
 
+## Independent game development
+
+I have developed games independently since 2008. With a small
+independent team based in Portugal I am building a narrative 2D game
+with accessibility as its central theme. The project is in development
+and has not been announced. It also serves as a platform for
+investigating accessible game systems and alternative input methods.
+
 ## Technology
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Python.
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, GDScript,
+  C#, C++.
 - **Accessibility APIs and specifications:** WAI-ARIA, AT-SPI,
   UI Automation, NSAccessibility.
 - **Assistive technologies:** NVDA, JAWS, VoiceOver (macOS and iOS),

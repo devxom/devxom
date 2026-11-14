@@ -1,4 +1,4 @@
-# Ilias (ee-LEE-ahs)
+# Ilia (ee-LEE-ah)
 
 **Accessibility Architect & Consultant**
 

@@ -1,17 +1,46 @@
-# Hi there, Ilias (pronounced: ee-LEE-ahs [/iˈliː.ɑːs/])
+# Ilias (ee-LEE-ahs)
 
-I architect inclusive digital platforms and mitigate regulatory risks by embedding structural compliance directly into UI foundations. My engineering practice spans the full product lifecycle. I direct initial requirements gathering, validate design systems, establish scalable engineering workflows, and audit final implementations. I translate global mandates, including WCAG, EN 301 549, the EAA, and Section 508, into exact technical specifications across web, mobile, terminal, and game environments.
+**Accessibility Architect & Consultant**
 
-## Focus Areas
+Accessibility Architect with 15+ years in technology, first in systems
+administration and technical operations, then in software engineering.
+I have worked with accessibility since 2017 and exclusively in that role
+since 2023, integrating it into the architecture of digital products in
+regulated industries.
 
-My work centres on architectural integrity and the shift-left integration of accessibility standards into the software development lifecycle. I construct resilient component libraries from inception to ensure compliance by design without compromising delivery velocity. I execute architecture audits and risk assessments for data-dense ecosystems.
+## Professional practice
 
-## Research
+Client and product names are under NDA.
 
-I actively research inclusive interface systems, unconventional input methods, and techno-positivism. I explore how emerging tools alter human-computer interaction across physical and digital spaces.
+| Period | Domain | Role |
+| --- | --- | --- |
+| 2023 to present | International financial services | Accessibility Architect |
+| 2021 to 2023 | International financial services | Software developer with accessibility responsibility |
+| 2018 to 2021 | Digital publishing, including a WYSIWYG book editor | Software developer, with accessibility work |
+| 2016 to 2018 | Global marketplace for handmade goods | Frontend developer, first accessibility work |
+| 2011 to 2016 | Industrial holding, regional media, medical clinic | Systems administrator, then sustaining engineer |
+
+- Work: accessibility architecture, design system evaluation, audits,
+  technical assessments and conformity documentation.
+- Frameworks: WCAG 2.2, EN 301 549, European Accessibility Act,
+  Section 508.
+
+## Technology
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python.
+- **Accessibility APIs and specifications:** WAI-ARIA, AT-SPI,
+  UI Automation, NSAccessibility.
+- **Assistive technologies:** NVDA, JAWS, VoiceOver (macOS and iOS),
+  TalkBack, Orca, forced colours and reduced motion modes,
+  keyboard-only operation.
+- **Testing:** manual audits with WCAG-EM, axe-core with Playwright in
+  CI, Accessibility Insights, Accessibility Inspector (Xcode), Colour
+  Contrast Analyser, conformance reporting (VPAT/ACR, EAA statements).
+- **Platforms:** Windows, Linux, macOS, web, iOS, Android.
 
 ## Engagements
 
-I am based in Portugal, available for remote engagements and technical consulting globally. Onsite roles involving relocation are considered on a case-by-case basis.
+Based in Portugal and available internationally for accessibility
+consulting, technical evaluations and architectural advisory.
 
-[Contacts Page](https://www.a11ythinker.com/contacts/?utm_source=github&utm_medium=readme).
+[Contact me through the form on my site](https://www.a11ythinker.com/contacts/?utm_source=github&utm_medium=readme).
